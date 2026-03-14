@@ -15,7 +15,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
 
-    const githubRepoURL = 'https://github.com/Faizan-MD-BOTZ/Faizan-Ai';
+    const githubRepoURL = 'https://github.com/fkxghoost/FKxGHOST-MD.git';
 
     try {
         const match = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -55,7 +55,7 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '0029VbBOcrNBadmXo2Nqfg2Y@newsletter',
+                    newsletterJid: '120363422320301173@newsletter',
                     newsletterName: '𝐅𝐊𝐱𝐆𝐇𝐎𝐒𝐓-𝐌𝐃',
                     serverMessageId: 143
                 }

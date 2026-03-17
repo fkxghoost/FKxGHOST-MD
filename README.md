@@ -8,21 +8,17 @@
 
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO 😇
 
----
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20FKxGHOST-MD;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20FK%20SAIN" />
 </a>---
 
 <p align="center">
 <img src="https://files.catbox.moe/6m9oxw.jpg" width="350"/>
-</p>---
-
-🍴 🔑 GET SESSION ID
+</p>
 
 <a href="https://github.com/">
 <img src="https://img.shields.io/badge/FORK-FKxGHOST--MD-purple?style=for-the-badge&logo=github">
-</a>---
+</a>
 
 🚀 DEPLOY OPTIONS
 

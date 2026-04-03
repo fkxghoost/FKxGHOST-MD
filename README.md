@@ -65,12 +65,13 @@
   <table align="center">
     <tr>
       <td align="center">
-        <h3>🦋 KATABUMP</h3>
-        <a href="https://katabump.com/">
-          <img src="https://img.shields.io/badge/🚀_DEPLOY_ON_KATAPULT-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=000000" width="220"/>
-        </a>
-      </td>
-      <td align="center">
+        <h3>🦋 HEROKU</h3>
+       </a>
+<br><br>
+<h3 style="color:#66ff66;">🚀 Step 3: Deploy on Heroku</h3>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/fkxghoost/FKxGHOST-MD.git" target="_blank">
+<img src="https://img.shields.io/badge/DEPLOY_HEROKU-66ff66?style=for-the-badge&logo=heroku&logoColor=black&labelColor=001a00"/>
+</a>
         <h3>🦅 PTERODACTYL_PANELS</h3>
         <img src="https://img.shields.io/badge/🖥️_PTERODACTYL_PANEL-00A8E1?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=000000" width="220"/>
       </td>
